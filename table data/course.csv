@@ -1,0 +1,83 @@
+course_id,course_code,course_name,prerequisite_course,semester,room,time
+1,IM1023,Finance Management,,1121,I1-104,(Wed) 234
+2,IM1023,Finance Management,,1121,I1-104,(Sun) 234
+3,IM1023,Finance Management,,1121,I1-104,(Mon) 234
+4,IM1023,Finance Management,,1121,I1-104,(Tue) 234
+5,IM1023,Finance Management,,1111,I1-104,(Wed) 234
+6,IM1023,Finance Management,,1111,I1-104,(Sun) 234
+7,IM1023,Finance Management,,1111,I1-104,(Mon) 234
+8,IM1023,Finance Management,,1111,I1-104,(Tue) 234
+9,IM1022,Data Science,"IM560, IM2048",1121,I1-404,(Fri) 234
+10,IM1022,Data Science,"IM560, IM2048",1121,I1-404,(Fri) 234
+11,IM1022,Data Science,"IM560, IM2048",1112,I1-404,(Fri) 234
+12,IM1022,Data Science,"IM560, IM2048",1112,I1-404,(Fri) 234
+13,IM1022,Data Science,"IM560, IM2048",1102,I1-404,(Sun) 234
+14,IM560,Programming(Basic),,1121,I1-407,(Sun) 678
+15,IM560,Programming(Basic),,1111,I1-407,(Sun) 678
+16,IM560,Programming(Basic),,1121,I1-407,(Fri) 678
+17,IM560,Programming(Basic),,1101,I1-407,(Fri) 678
+18,IM560,Programming(Basic),,1101,I1-407,(Fri) 678
+19,IM560,Programming(Basic),,1101,I1-407,(Fri) 678
+20,IM560,Programming(Basic),,1091,I1-407,(Fri) 678
+21,IM560,Programming(Basic),,1091,I1-407,(Fri) 678
+22,IM560,Programming(Basic),,1091,I1-407,(Fri) 678
+23,IM2056,Introduction to Blockchain,IM2060,1112,I1-404,(Mon) 234
+24,IM2056,Introduction to Blockchain,IM2060,1112,I1-404,(Tue) 234
+25,IM2056,Introduction to Blockchain,IM2060,1121,I1-404,(Wed) 234
+26,IM2056,Introduction to Blockchain,IM2060,1101,I1-404,(Tue) 234
+27,IM2056,Introduction to Blockchain,IM2060,1101,I1-404,(Tue) 234
+28,IM1025,Machine Learning,IM560,1121,I1-104,(Mon) 567
+29,IM1025,Machine Learning,IM560,1121,I1-104,(Tue) 567
+30,IM1025,Machine Learning,IM560,1121,I1-104,(Wed) 567
+31,IM1025,Machine Learning,IM560,1092,I1-104,(Mon) 567
+32,IM1025,Machine Learning,IM560,1092,I1-104,(Mon) 567
+33,IM1025,Machine Learning,IM560,1092,I1-104,(Mon) 567
+34,IM2048,Introduction to DataBase,,1121,I1-103,(Wed) 567
+35,IM2048,Introduction to DataBase,,1121,I1-103,(Mon) 567
+36,IM2048,Introduction to DataBase,,1121,I1-103,(Mon) 567
+37,IM2048,Introduction to DataBase,,1111,I1-103,(Mon) 567
+38,IM2048,Introduction to DataBase,,1111,I1-103,(Mon) 567
+39,IM2048,Introduction to DataBase,,1111,I1-103,(Mon) 567
+40,IM2048,Introduction to DataBase,,1111,I1-103,(Mon) 567
+41,IM2048,Introduction to DataBase,,1101,I1-103,(Mon) 567
+42,IM2048,Introduction to DataBase,,1101,I1-103,(Mon) 567
+43,IM2048,Introduction to DataBase,,1101,I1-103,(Mon) 567
+44,IM2048,Introduction to DataBase,,1091,I1-103,(Mon) 567
+45,IM2048,Introduction to DataBase,,1091,I1-103,(Mon) 567
+46,IM2048,Introduction to DataBase,,1091,I1-103,(Mon) 567
+47,IM561,Programming(Advanced),IM560,1112,I1-407,(Tue) 234
+48,IM561,Programming(Advanced),IM560,1112,I1-407,(Tue) 234
+49,IM561,Programming(Advanced),IM560,1102,I1-407,(Tue) 234
+50,IM561,Programming(Advanced),IM560,1102,I1-407,(Tue) 234
+51,IM561,Programming(Advanced),IM560,1092,I1-407,(Tue) 234
+52,IM561,Programming(Advanced),IM560,1092,I1-407,(Tue) 234
+53,IM4085,Basic Chinese,,1121,I1-404,(Wed) 789
+54,IM4085,Basic Chinese,,1112,I1-404,(Wed) 789
+55,IM4085,Basic Chinese,,1102,I1-404,(Wed) 789
+56,IM2060,Information Security,,1121,I1-404,(Tue) 678
+57,IM2060,Information Security,,1121,I1-404,(Tue) 678
+58,IM2060,Information Security,,1111,I1-404,(Tue) 678
+59,IM2060,Information Security,,1111,I1-404,(Mon) 678
+60,IM2060,Information Security,,1101,I1-404,(Tue) 678
+61,IM2060,Information Security,,1101,I1-404,(Tue) 678
+62,IM2062,Introduction to Internet,,1121,l1-409,(Thu) 678
+63,IM2062,Introduction to Internet,,1121,l1-409,(Thu) 678
+64,IM2062,Introduction to Internet,,1111,l1-409,(Thu) 678
+65,IM2062,Introduction to Internet,,1111,l1-409,(Thu) 678
+66,IM4083,Basic English,,1121,I1-404,(Mon) 234
+67,IM4083,Basic English,,1111,I1-404,(Mon) 234
+68,IM4083,Basic English,,1101,I1-404,(Mon) 234
+69,IM2063,Practical Course of Cloud Computing,IM2062,1121,I1-407,(Thu) 678
+70,IM2063,Practical Course of Cloud Computing,IM2062,1121,I1-407,(Thu) 678
+71,IM2063,Practical Course of Cloud Computing,IM2062,1112,I1-407,(Thu) 678
+72,IM2063,Practical Course of Cloud Computing,IM2062,1112,I1-407,(Thu) 678
+73,IM1050,Marketing Management,,1121,I1-507,(Thu) 567
+74,IM1050,Marketing Management,,1121,I1-507,(Thu) 567
+75,IM1050,Marketing Management,,1121,I1-507,(Thu) 567
+76,IM1050,Marketing Management,,1111,I1-507,(Thu) 567
+77,IM1050,Marketing Management,,1111,I1-507,(Thu) 567
+78,IM1050,Marketing Management,,1101,I1-507,(Thu) 567
+79,IM1050,Marketing Management,,1101,I1-507,(Thu) 567
+80,IM1062,Physical Education,,1121,I1-408,(Wed) 678
+81,IM1062,Physical Education,,1111,I1-408,(Wed) 678
+82,IM1062,Physical Education,,1101,I1-408,(Wed) 678

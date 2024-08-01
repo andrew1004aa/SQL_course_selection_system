@@ -1,0 +1,16 @@
+student_course_id,student_id,course_selection_status,course_id,pass,course_card_id,semester
+1,110408501,enrolled,5,T,,1111
+2,110408501,enrolled,15,T,,1111
+3,110408501,enrolled,58,T,,1111
+4,110408501,enrolled,28,,,1112
+5,110408501,withdrawn,34,,,1112
+6,110408501,preliminary,25,,,1112
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
